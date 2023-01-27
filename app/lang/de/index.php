@@ -14,8 +14,7 @@ return array(
 
     'col-1-0'       => 'Infos',
     'col-2-0'       => 'Dev',
-    'col-3-0'       => 'Social',
-    'col-4-0'       => 'Kontakt',
+    'col-3-0'       => 'Kontakt',
 
     'menu-legal'    => 'Impressum'
 

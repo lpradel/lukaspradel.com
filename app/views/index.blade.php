@@ -45,15 +45,17 @@ Lukas Pradel
             <hr />
 
             <div class="row">
-                <div class="col-md-3 col-sm-3 col-xs-3 col-mob">
+                <div class="col-md-4 col-sm-4 col-xs-4 col-mob">
                     <div class="ui-item">
                         <h4>@lang('index.col-1-0')</h4>
                         <ul>
                             <li><a href="https://blog.lukaspradel.com">Blog</a></li>
+                            <li><a href="https://www.xing.com/profile/Lukas_Pradel/">XING</a></li>
+                            <li><a href="https://www.linkedin.com/in/lukaspradel">LinkedIn</a></li>
                         </ul>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-3 col-xs-3 col-mob">
+                <div class="col-md-4 col-sm-4 col-xs-4 col-mob">
                     <div class="ui-item">
                         <h4>@lang('index.col-2-0')</h4>
                         <ul>
@@ -63,18 +65,9 @@ Lukas Pradel
                         </ul>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-3 col-xs-3 col-mob">
+                <div class="col-md-4 col-sm-4 col-xs-4 col-mob">
                     <div class="ui-item">
                         <h4>@lang('index.col-3-0')</h4>
-                        <ul>
-                            <li><a href="https://www.xing.com/profile/Lukas_Pradel/">XING</a></li>
-                            <li><a href="https://www.linkedin.com/in/lukaspradel">LinkedIn</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-3 col-xs-3 col-mob">
-                    <div class="ui-item">
-                        <h4>@lang('index.col-4-0')</h4>
                         <ul>
                             <li> <a href="https://mailhide.io/e/yULcLnh3" onclick="popup=window.open('https://mailhide.io/e/yULcLnh3','mailhidepopup','width=580,height=635'); return false;">E-Mail</a></li>
                             <li><a href="https://keybase.io/lpradel">GPG</a></li>
