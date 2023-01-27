@@ -2,8 +2,8 @@
 
 return array(
 
-    'about-0-0'     => 'IT-Berater',
-    'about-1-0'     => 'Tach auch! Ich bin Lukas,',
+    'about-0-0'     => 'Software Engineer',
+    'about-1-0'     => 'Hi! Ich bin Lukas,',
     'about-1-1'     => 'Consultant bei der',
     'about-1-2'     => '.',
     'about-2-1'     => 'Ich treibe gerne Lauf- und Kraftsport und mag ',
@@ -13,8 +13,6 @@ return array(
     'about-2-5'     => 'Motorradfahren',
 
     'col-1-0'       => 'Infos',
-    'col-1-1'       => 'Lebenslauf (en.)',
-    'col-1-2'       => 'Lebenslauf (dt.)',
     'col-2-0'       => 'Dev',
     'col-3-0'       => 'Social',
     'col-4-0'       => 'Kontakt',

@@ -19,7 +19,7 @@ if (App::getLocale() == "en") {
         @section('title')
         @show
     </title>
-    <meta name="description" content="Software developer and consultant at Conciso GmbH, Dortmund, Germany.">
+    <meta name="description" content="Software engineer and consultant from Dortmund, Germany.">
     <meta name="author" content="Lukas Pradel">
 
     <meta name="HandheldFriendly" content="True" />

@@ -50,8 +50,6 @@ Lukas Pradel
                         <h4>@lang('index.col-1-0')</h4>
                         <ul>
                             <li><a href="https://blog.lukaspradel.com">Blog</a></li>
-                            <li><a href="/public/download/cv.lukas.pradel.en.pdf">@lang('index.col-1-1')</a></li>
-                            <li><a href="/public/download/cv.lukas.pradel.de.pdf">@lang('index.col-1-2')</a></li>
                         </ul>
                     </div>
                 </div>
@@ -71,7 +69,6 @@ Lukas Pradel
                         <ul>
                             <li><a href="https://www.xing.com/profile/Lukas_Pradel/">XING</a></li>
                             <li><a href="https://www.linkedin.com/in/lukaspradel">LinkedIn</a></li>
-                            <li><a href="https://plus.google.com/+LukasPradel/">Google+</a></li>
                         </ul>
                     </div>
                 </div>
@@ -79,7 +76,7 @@ Lukas Pradel
                     <div class="ui-item">
                         <h4>@lang('index.col-4-0')</h4>
                         <ul>
-                            <li><a href="http://www.google.com/recaptcha/mailhide/d?k=01h-OD9C75BfXnkoGnpom4HA==&amp;c=4IVZVNPuQv6ivAMBnpCo3qyiEOpYw8_bDeL5MexiuT0=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\07501h-OD9C75BfXnkoGnpom4HA\75\75\46c\0754IVZVNPuQv6ivAMBnpCo3qyiEOpYw8_bDeL5MexiuT0\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">E-Mail</a></li>
+                            <li> <a href="https://mailhide.io/e/yULcLnh3" onclick="popup=window.open('https://mailhide.io/e/yULcLnh3','mailhidepopup','width=580,height=635'); return false;">E-Mail</a></li>
                             <li><a href="https://keybase.io/lpradel">GPG</a></li>
                             <li><a href="https://twitter.com/lukaspradel">Twitter</a></li>
                         </ul>

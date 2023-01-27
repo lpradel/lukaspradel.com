@@ -2,7 +2,7 @@
 
 return array(
 
-    'about-0-0' => 'IT Consultant',
+    'about-0-0' => 'Software Engineer',
     'about-1-0' => 'Hi there! My name is Lukas.',
     'about-1-1' => 'I\'m a consultant at',
     'about-1-2' => '.',
@@ -13,8 +13,6 @@ return array(
     'about-2-5' => 'riding my motorcycle',
 
     'col-1-0'   => 'Info',
-    'col-1-1'   => 'English CV',
-    'col-1-2'   => 'German CV',
     'col-2-0'   => 'Dev',
     'col-3-0'   => 'Social',
     'col-4-0'   => 'Contact',
