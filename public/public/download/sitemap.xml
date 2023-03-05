@@ -5,25 +5,19 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
-  <loc>http://lukaspradel.com/</loc>
+  <loc>https://lukaspradel.com/</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://lukaspradel.com/public/download/cv.lukas.pradel.en.pdf</loc>
-  <lastmod>2014-05-24T14:21:36+00:00</lastmod>
+  <loc>https://lukaspradel.com/legal?lang=en</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://lukaspradel.com/public/download/cv.lukas.pradel.de.pdf</loc>
-  <lastmod>2014-05-24T14:21:36+00:00</lastmod>
+  <loc>https://lukaspradel.com/impressum?lang=de</loc>
   <changefreq>monthly</changefreq>
 </url>
 <url>
-  <loc>http://lukaspradel.com/legal?lang=en</loc>
-  <changefreq>monthly</changefreq>
-</url>
-<url>
-  <loc>http://lukaspradel.com/impressum?lang=de</loc>
+  <loc>https://blog.lukaspradel.com/</loc>
   <changefreq>monthly</changefreq>
 </url>
 </urlset>
