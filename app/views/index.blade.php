@@ -33,12 +33,12 @@ Lukas Pradel
             </div>
             <p> @lang('index.about-1-0')
                 @lang('index.about-1-1')
-                <a href="https://conciso.de//"><span class="highlight{{$highlightNo}}">Conciso GmbH</span></a>@lang('index.about-1-2')
+                <a href="https://www.db-fernverkehr.com/"><span class="highlight{{$highlightNo}}">Deutsche Bahn Fernverkehr AG</span></a>@lang('index.about-1-2')
                 @lang('index.about-2-1')
-                <a href="http://steamcommunity.com/id/boonzsteam/"><span class="highlight{{$highlightNo}}">@lang('index.about-2-2')</span></a>,
-                @lang('index.about-2-3')
+                @lang('index.about-2-2')
+                <a href="images/wee.jpg"><span class="highlight{{$highlightNo}}">@lang('index.about-2-3')</span></a>
                 @lang('index.about-2-4')
-                <a href="images/wee.jpg"><span class="highlight{{$highlightNo}}">@lang('index.about-2-5')</span></a>.
+                <a href="images/wee2.jpg"><span class="highlight{{$highlightNo}}">@lang('index.about-2-5')</span></a>.
             </p>
 
             <br />
